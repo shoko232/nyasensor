@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "name": "ふぉー",
+      "gender": "男の子",
+      "age": "1-3才",
+      "hairColor": "黒白",
+      "hairLong": "短毛",
+      "friendly": "びびり"
+    },
+    {
+      "name": "ここ",
+      "gender": "女の子",
+      "age": "1-3才",
+      "hairColor": "キジ白",
+      "hairLong": "短毛",
+      "friendly": "びびり"
+    },
+    {
+      "name": "ミュゲ",
+      "gender": "男の子",
+      "age": "1才未満",
+      "hairColor": "茶トラ",
+      "hairLong": "短毛",
+      "friendly": "シャー！シャー！"
+    },
+    {
+      "name": "チャボ",
+      "gender": "男の子",
+      "age": "4-6才",
+      "hairColor": "グレー",
+      "hairLong": "中長毛",
+      "friendly": "デレデレ"
+    },
+    {
+      "name": "くろろん",
+      "gender": "男の子",
+      "age": "4-6才",
+      "hairColor": "黒",
+      "hairLong": "短毛",
+      "friendly": "デレデレ"
+    },
+    {
+      "name": "紬",
+      "gender": "女の子",
+      "age": "1-3才",
+      "hairColor": "サビ",
+      "hairLong": "中長毛",
+      "friendly": "ツンデレ"
+    }
+  ]
+}
