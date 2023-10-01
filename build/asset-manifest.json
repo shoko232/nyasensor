@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2667f6f9.css",
+    "main.js": "/static/js/main.af2c936f.js",
+    "static/media/MV.jpg": "/static/media/MV.5513ba6367c3a40f556a.jpg",
+    "static/media/kijitora.jpg": "/static/media/kijitora.24ff6b29f0a3faf33f24.jpg",
+    "static/media/classictabby.jpg": "/static/media/classictabby.56058b14a141112574da.jpg",
+    "static/media/spotedtabby.jpg": "/static/media/spotedtabby.86cdffd3a50ac37ffb99.jpg",
+    "static/media/chatora.jpg": "/static/media/chatora.85e01c264b0ea8d32c6a.jpg",
+    "static/media/sabi.jpg": "/static/media/sabi.77bf53e1880f82011a4b.jpg",
+    "static/media/icon_title2.svg": "/static/media/icon_title2.8bdb72c167008c7e3b71.svg",
+    "static/media/icon_title3.svg": "/static/media/icon_title3.89e80bb1a25c46d1e201.svg",
+    "static/media/arrow.svg": "/static/media/arrow.2beb53f3938a99d67112.svg",
+    "index.html": "/index.html",
+    "main.2667f6f9.css.map": "/static/css/main.2667f6f9.css.map",
+    "main.af2c936f.js.map": "/static/js/main.af2c936f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2667f6f9.css",
+    "static/js/main.af2c936f.js"
+  ]
+}
