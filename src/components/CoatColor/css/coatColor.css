@@ -1,0 +1,98 @@
+/* coatColor */
+.coatColor {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  padding: 0;
+}
+
+.coatColor__item {
+  display: flex;
+  flex-direction: column;
+  width: 22%;
+  text-align: center;
+  list-style: none;
+}
+
+.coatColor__item::before {
+  content: "";
+  width: 78px;
+  height: 67px;
+}
+
+.coatColor__item:nth-child(1)::before {
+  background: url(../../../../public/img/kijitora.jpg);
+  background-size: cover;
+}
+
+.coatColor__item:nth-child(2)::before {
+  background: url(../../../../public/img/sabatora.jpg);
+  background-size: cover;
+}
+
+.coatColor__item:nth-child(3)::before {
+  background: url(../../../../public/img/chatora.jpg);
+  background-size: cover;
+}
+
+.coatColor__item:nth-child(4)::before {
+  background: url(../../../../public/img/agoutitabby.jpg);
+  background-size: cover;
+}
+
+.coatColor__item:nth-child(5)::before {
+  background: url(../../../../public/img/classictabby.jpg);
+  background-size: cover;
+}
+
+.coatColor__item:nth-child(6)::before {
+  background: url(../../../../public/img/spotedtabby.jpg);
+  background-size: cover;
+}
+
+.coatColor__item:nth-child(7)::before {
+  background: url(../../../../public/img/white.jpg);
+  background-size: cover;
+}
+
+.coatColor__item:nth-child(8)::before {
+  background: url(../../../../public/img/black.jpg);
+  background-size: cover;
+}
+
+.coatColor__item:nth-child(9)::before {
+  background: url(../../../../public/img/gray.jpg);
+  background-size: cover;
+}
+
+.coatColor__item:nth-child(10)::before {
+  background: url(../../../../public/img/blackwhite.jpg);
+  background-size: cover;
+}
+
+.coatColor__item:nth-child(11)::before {
+  background: url(../../../../public/img/mike.jpg);
+  background-size: cover;
+}
+
+.coatColor__item:nth-child(12)::before {
+  background: url(../../../../public/img/point.jpg);
+  background-size: cover;
+}
+
+.coatColor__item:nth-child(13)::before {
+  background: url(../../../../public/img/sabi.jpg);
+  background-size: cover;
+}
+
+.coatColor__link {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+
+.coatColor__name {
+  color: #333;
+  font-size: 12px;
+}

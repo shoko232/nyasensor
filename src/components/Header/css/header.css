@@ -1,21 +1,19 @@
 @charset "UTF-8";
 
-.App {
-  position: relative;
-}
-
 header {
-  position: absolute;
+  position: relative;
   display: flex;
   justify-content: space-between;
   top: 0;
   width: 100%;
+  padding: 0 10px;
+  background: #f5f4f0;
   align-items: center;
 }
 
 .logo {
   width: 172px;
-  padding-left: 10px;
+  padding-top: 4px;
 }
 
 .logoImg {
@@ -37,7 +35,7 @@ header {
   display: block;
   width: 32px;
   height: 32px;
-  margin: 0 auto 4px;
-  background: url(./assets/img/menu.png) no-repeat;
+  margin: 6px 0;
+  background: url(../../../assets/img/menu.png) no-repeat;
   background-size: 32px;
 }
