@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+header {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  top: 0;
+  width: 100%;
+  padding: 0 10px;
+  background: #f5f4f0;
+  align-items: center;
+}
+
+.logo {
+  width: 172px;
+  padding-top: 4px;
+}
+
+.logoImg {
+  width: 100%;
+}
+
+.navigation {
+  padding-top: 8px;
+}
+
+.navigation li {
+  width: 45px;
+  height: 100%;
+  list-style: none;
+}
+
+.menu {
+  position: relative;
+  display: block;
+  width: 32px;
+  height: 32px;
+  margin: 6px 0;
+  background: url(../../../assets/img/menu.png) no-repeat;
+  background-size: 32px;
+}
