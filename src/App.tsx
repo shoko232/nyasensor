@@ -9,8 +9,8 @@ function App() {
   return (
     <>
     <Routes>
-      <Route path="https://shoko232.github.io/nyasensor/" element={<Main />} />
-      <Route path= "https://shoko232.github.io/nyasensor/list" element={<List />} />
+      <Route path={`${process.env.PUBLIC_URL}/`} element={<Main />} />
+      <Route path={`${process.env.PUBLIC_URL}/list`} element={<List />} />
     </Routes>
     </>
   );
