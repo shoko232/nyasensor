@@ -11,7 +11,7 @@ function App() {
   return (
     <>
     <Routes>
-      <Route path={homeUrl} element={<Main />} />
+      <Route path={homeUrl + "/"} element={<Main />} />
       <Route path={homeUrl + "/list"} element={<List />} />
     </Routes>
     </>
