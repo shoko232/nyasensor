@@ -5,14 +5,12 @@ import { List } from "./pages/List/List";
 import "./assets/css/reset.css";
 import "./App.css";
 
-const homeUrl = process.env.PUBLIC_URL;
-
 function App() {
   return (
     <>
     <Routes>
-      <Route path={homeUrl} element={<Main />} />
-      <Route path={homeUrl + "/list"} element={<List />} />
+      <Route path="https://shoko232.github.io/nyasensor/" element={<Main />} />
+      <Route path= "https://shoko232.github.io/nyasensor/list" element={<List />} />
     </Routes>
     </>
   );
