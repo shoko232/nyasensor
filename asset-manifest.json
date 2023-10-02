@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nyasensor/static/css/main.c61f2544.css",
-    "main.js": "/nyasensor/static/js/main.d12e38b2.js",
+    "main.js": "/nyasensor/static/js/main.6cdf8c02.js",
     "static/media/MV.jpg": "/nyasensor/static/media/MV.5513ba6367c3a40f556a.jpg",
     "static/media/kijitora.jpg": "/nyasensor/static/media/kijitora.24ff6b29f0a3faf33f24.jpg",
     "static/media/classictabby.jpg": "/nyasensor/static/media/classictabby.56058b14a141112574da.jpg",
@@ -13,10 +13,10 @@
     "static/media/arrow.svg": "/nyasensor/static/media/arrow.2beb53f3938a99d67112.svg",
     "index.html": "/nyasensor/index.html",
     "main.c61f2544.css.map": "/nyasensor/static/css/main.c61f2544.css.map",
-    "main.d12e38b2.js.map": "/nyasensor/static/js/main.d12e38b2.js.map"
+    "main.6cdf8c02.js.map": "/nyasensor/static/js/main.6cdf8c02.js.map"
   },
   "entrypoints": [
     "static/css/main.c61f2544.css",
-    "static/js/main.d12e38b2.js"
+    "static/js/main.6cdf8c02.js"
   ]
 }
