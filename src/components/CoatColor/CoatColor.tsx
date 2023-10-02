@@ -12,7 +12,7 @@ export const CoatColor = () => {
       <div className="">
         <div className="coatColor">
           {RADIO_VALUE.map((radioValue) => (
-            <Link to={`/list`} className="coatColor__item" state={{state: radioValue}}>
+            <Link to={"/list"} className="coatColor__item" state={{state: radioValue}}>
               <p className="coatColor__link">{radioValue}</p>
             </Link>
           ))}
